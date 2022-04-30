@@ -1,0 +1,103 @@
+{
+    "Books category": {
+        "For Children and parents": {
+            "Child development": [
+                "Learning to count",
+                {
+                    "Age": "5-7",
+                    "Cost": "30 NIS"
+                },
+                "Learning to write",
+                {
+                    "Age": "5-7",
+                    "Cost": "30 NIS"
+                },
+                "Learning to read",
+                {
+                    "Age": "5-7",
+                    "Cost": "30 NIS"
+                },
+                "Learning foreign languages",
+                {
+                    "Russian": {
+                        "Ages": "10-12",
+                        "Cost": "50 Nis"
+                    },
+                    "Ukranian": {
+                        "Ages": "10-12",
+                        "Cost": "50 NIS"
+                    },
+                    "Japanise": {
+                        "Ages": "15-20",
+                        "Cost": "100 NIS"
+                    }
+                }
+            ],
+            "Fiction": [
+                "Lev Tolstoy",
+                {
+                    "Works": [
+                        "War and Peace",
+                        {
+                            "Genre": "Novel(Historical novel)",
+                            "Date": "1863-1869, 1873",
+                            "Cost": "100 NIS"
+                        },
+                        "Anna Karenina",
+                        {
+                            "Genre": "Realist novel",
+                            "Date": "1873-1877",
+                            "Cost": "100 NIS"
+                        },
+                        "Resurrection",
+                        {
+                            "Genre": "Philosophical novel, political fiction",
+                            "Date": "1889-1899",
+                            "Cost": "100 NIS"
+                        }
+                    ]
+                },
+                "Fyodor Dostoevsky",
+                {
+                    "Works": [
+                        "Crime and Punishment",
+                        {
+                            "Genre": "Philosophical novel, Philosofical fiction, Crime fiction",
+                            "Date": "1865-1866",
+                            "Cost": "100 NIS"
+                        },
+                        "The Idiot",
+                        {
+                            "Genre": "Novel",
+                            "Date": "1867-1869",
+                            "Cost": "100 NIS"
+                        },
+                        "The Brothers Karamazov",
+                        {
+                            "Genre": "Philosophical novel, Theological fiction",
+                            "Date": "1878-1880",
+                            "Cost": "100 NIS"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Business Literature": [
+            "Business education",
+            {
+                "Language": "English",
+                "Cost": "100 NIS"
+            },
+            "Office work",
+            {
+                "Language": "English",
+                "Cost": "100 NIS"
+            },
+            "Investments",
+            {
+                "Language": "English",
+                "Cost": "100 NIS"
+            }
+        ]
+    }
+}

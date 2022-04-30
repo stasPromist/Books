@@ -1,0 +1,69 @@
+{
+    "Delivery": [
+        "Shipping methods",["Delivery to the door"],
+        "Delivery regions time and costs",
+        {
+            "South": [
+                "Eilat",
+                {
+                    "Delivery time": "4-5 days",
+                    "Shipping cost": "50 NIS"
+                },
+                "Beer Sheva",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "25 NIS"
+                },
+                "Ashkelon",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "20 NIS"
+                },
+                "Ashdod",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "15 NIS"
+                }
+            ],
+            "Center": [
+                "Rishon LeZion",
+                {
+                    "Delivery time": "1-2 days",
+                    "Shipping cost": "10 NIS"
+                },
+                "Bat Yam",
+                {
+                    "Delivery time": "1-2 days",
+                    "Shipping cost": "10 NIS"
+                },
+                "Tel Aviv",
+                {
+                    "Delivery time": "1-2 days",
+                    "Shipping cost": "10 NIS"
+                },
+                "Raanana",
+                {
+                    "Delivery time": "1-2 days",
+                    "Shipping cost": "10 NIS"
+                }
+            ],
+            "North": [
+                "Zihron Yaakov",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "20 NIS"
+                },
+                "Haifa",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "25 NIS"
+                },
+                "Nahariya",
+                {
+                    "Delivery time": "2-3 days",
+                    "Shipping cost": "30 NIS"
+                }
+            ]
+        }
+    ]
+}
